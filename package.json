@@ -1,0 +1,26 @@
+{
+  "name": "suchmarket",
+  "version": "0.0.1",
+  "description": "token economy for services goods etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/suchservice/suchmarket.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "tokens",
+    "trade",
+    "marketplace",
+    "market"
+  ],
+  "author": "Max Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suchservice/suchmarket/issues"
+  },
+  "homepage": "https://github.com/suchservice/suchmarket#readme"
+}
