@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/suchservice/suchmarket/issues"
   },
-  "homepage": "https://github.com/suchservice/suchmarket#readme"
+  "homepage": "https://github.com/suchservice/suchmarket#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }
