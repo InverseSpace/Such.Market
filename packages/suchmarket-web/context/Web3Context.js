@@ -11,6 +11,7 @@ export const Web3Context = createContext({
 export const Web3ContextProvider = ({ children }) => {
   const [web3modal, setWeb3Modal] = useState();
   useEffect(() => {
-    // setWeb3Modal(new Web3Modal({}))
+    setWeb3Modal(new Web3Modal({
+    }))
   });
 };

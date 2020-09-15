@@ -25,5 +25,8 @@
   "homepage": "https://github.com/suchservice/suchmarket#readme",
   "devDependencies": {
     "lerna": "^3.22.1"
+  },
+  "dependencies": {
+    "@web3-react/core": "^6.1.1"
   }
 }
